@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-UpsellGuru provides a cloud‑based upselling platform for hotels, enabling pre‑arrival, on‑arrival and in‑stay personalized offers that increase revenue and guest satisfaction. Their solution automates upsell campaigns, offers real‑time analytics, and integrates with property management systems, helping hospitality operators boost profit with minimal effort.
+UpsellGuru provides hotel upsell software and a hospitality dashboard that helps hotels increase revenue through pre-arrival, on-arrival, and in-stay upselling solutions. Their platform offers features such as personalized offers, integration with property management systems, and professional services to optimize guest spending while enhancing satisfaction. Over 1,000 hotels use UpsellGuru to boost profits and improve guest experiences.
 
-**Areas:** Hospitality · Upselling · Hotel Software · Guest Experience · Revenue Management
+**Areas:** Company · Hospitality · SaaS · Revenue · Upselling
 
 ## UpsellGuru on APIs.io
 
@@ -137,7 +137,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Website](https://upsellguru.com/)
 - [Documentation](https://help.upsellguru.com/)
 - [Pricing](https://upsellguru.com/pricing/)
-- [Support](https://help.upsellguru.com/portal/en/kb)
+- [Support](https://upsellguru.com/contact/)
 - [Blog](https://upsellguru.com/blog/)
 - [Terms of service](https://upsellguru.com/terms-of-service/)
 - [Privacy policy](https://upsellguru.com/privacy-policy/)
@@ -145,16 +145,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 48.6** — developing · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 51.9** — developing · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
 | Discoverability | 66.1 |
 | Contract quality | 58.7 |
 | Contract governance | 79.1 |
-| Operational transparency | 4.8 |
+| Operational transparency | 5.3 |
 | Developer ergonomics | 35.0 |
-| Access clarity | 48.5 |
+| Access clarity | 60.0 |
 
 **Agent readiness 34.2** — agent-ready
 
@@ -183,7 +183,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/upsellguru/](https://apis.io/providers/upsellguru/).
 
